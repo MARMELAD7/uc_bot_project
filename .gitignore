@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.env
+*.sqlite3
+logs/
+data/
+config.json
+playwright/.cache/
+.vscode/
+.idea/

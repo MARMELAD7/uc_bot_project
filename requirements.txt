@@ -1,0 +1,6 @@
+python-telegram-bot==20.6
+playwright==1.44.0
+aiohttp
+pandas
+matplotlib
+python-dotenv
